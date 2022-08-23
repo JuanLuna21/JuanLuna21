@@ -29,5 +29,16 @@ Hi, I'm Juan Luna, a Full Stack Developer 🚀 from Argentina, currently, I'm tr
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
 
+languages that I speak:
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Argentina_flag_icon.svg/1200px-Argentina_flag_icon.svg.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/323/323310.png"></code>
+Begginer:
+<code><img height="20" src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/italy-512.png"></code>
+
+
+
+
+
 
 
