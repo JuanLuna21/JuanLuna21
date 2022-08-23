@@ -15,7 +15,7 @@ Hi, I'm Juan Luna, a Full Stack Developer 🚀 from Argentina, currently, I'm tr
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on My Portafolio.
-- 🌱 I’m currently learning  Angular and Google Analytics.
+- 🌱 I’m currently learning  Italian Language,Angular and Google Analytics.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: lunacalvojuanignacio@gmail.com.
 
