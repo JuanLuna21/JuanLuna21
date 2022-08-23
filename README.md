@@ -1,6 +1,6 @@
  Hi there 👋
 
-- 🔭 I’m currently working on Portfolio.
+- 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Angular,Google Analytics, PDO.
 
 My contac:
