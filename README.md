@@ -30,7 +30,7 @@ Languages:
 
 
 
-### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
+### Hey 👋🏽, I'm [Juan Luna!]
 
 <a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -81,12 +81,6 @@ Hi, I'm Juan Luna, a Full Stack Developer 🚀 from Argentina, currently, I'm tr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
-
-⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
 
 <a href="https://github.com/abhisheknaiidu/A-POP">
