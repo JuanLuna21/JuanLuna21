@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**JuanLuna21/JuanLuna21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Portfolio.
+- 🌱 I’m currently learning Angular,Google Analytics, PDO.
 
-Here are some ideas to get you started:
+My contac:
+    <a href="">
+      <img aligh="left" alt="icon-linkendin" src=""https://www.iconfinder.com/icons/317750/linkedin_icon">
+     </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a programming student, currently almost in the last year of my career.My idea is to develop myself in the Backend sector.
+Passionate about technology and programming. I seek at all times to learn new things and apply my skills.
+
+
