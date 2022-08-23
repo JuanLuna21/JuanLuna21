@@ -5,7 +5,7 @@
 
 My contac:
     <a href="">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="21px">
      </a>
 
 I am a programming student, currently almost in the last year of my career.My idea is to develop myself in the Backend sector.
