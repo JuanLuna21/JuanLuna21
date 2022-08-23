@@ -19,7 +19,7 @@ Languages:
   
  <p>English</p>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English"
- width="21px">
+ width="21px" right="20px">
 
 
   
