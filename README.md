@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular,Google Analytics, PDO.
 
 My contac:
-    <a href="">
+    <a href="https://www.linkedin.com/in/juan-ignacio-luna-calvo-0aa138207">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="21px">
      </a>
 
