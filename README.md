@@ -13,6 +13,8 @@ Passionate about technology and programming. I seek at all times to learn new th
 
 Languages:
 
+<div>
+
  <p>Spanish</p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png" alt="Español" width="21px">
   
@@ -20,6 +22,8 @@ Languages:
  <p>English</p>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English"
  width="21px">
+
+</div>
   
   I’m currently learning
  <p>Italian</p>
