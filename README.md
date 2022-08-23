@@ -57,20 +57,16 @@ Languages:
 <br />
 <br />
 
-Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Juan Luna, a Full Stack Developer 🚀 from Argentina, currently, I'm trying to get into the world of Freelancer to be able to apply my skills🏽‍💻 Beside's programming, I enjoy technology, and I study to be a programmer, at the National University of the Center of the Province of Buenos Aires.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 👨🏽‍💻 I’m currently working on My Portafolio.
+- 🌱 I’m currently learning  Angular and Google Analytics.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: lunacalvojuanignacio@gmail.com.
 
 **Languages and Tools:**  
 
