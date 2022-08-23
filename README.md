@@ -32,9 +32,9 @@ Languages:
 
 ### Hey 👋🏽, I'm [Juan Luna!]
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+ <a href="https://www.linkedin.com/in/juan-ignacio-luna-calvo-0aa138207/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="21px">
+ </a>
 
 
 <br />
