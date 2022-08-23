@@ -28,6 +28,7 @@ Hi, I'm Juan Luna, a Full Stack Developer 🚀 from Argentina, currently, I'm tr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></code>
 
 languages that I speak:
 
