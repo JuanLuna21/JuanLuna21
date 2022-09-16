@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Juan Luna, a Backend developerJr 🚀 from Argentina, currently, I'm trying to get into the world of Freelancer to be able to apply my skills🏽‍💻 Beside's programming, I enjoy technology, and I study to be a programmer, at the National University of the Center of the Province of Buenos Aires.
+Hi, I'm Juan Luna, a Backend developer Jr 🚀 from Argentina, currently, I'm trying to get into the world of Freelancer to be able to apply my skills🏽‍💻 Beside's programming, I enjoy technology, and I study to be a programmer, at the National University of the Center of the Province of Buenos Aires.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
