@@ -10,18 +10,20 @@
 
 Hi, I'm Juan Luna, a Backend developer Jr 🚀 from Argentina, currently, I'm trying to get into the world of Freelancer to be able to apply my skills🏽‍💻 Beside's programming, I enjoy technology, and I study to be a programmer, at the National University of the Center of the Province of Buenos Aires.
 
+Hola! ,Soy Juan Luna, un Backend Developer Jr 🚀 de Argentina, actualmente estoy tratando de ingresar al mundo del Freelancer para poder aplicar mis habilidades 🏽‍💻 Además de la programación, disfruto de la tecnología y estudio para ser programador, en la Universidad Nacional del Centro de la Provincia de Buenos Aires.
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs / Detalles Personales:*
 
-- 👨🏽‍💻 I’m currently working on My Portafolio.
-- 🌱 I’m currently learning  Italian Language,Angular and Google Analytics.
-- 👨🏽‍💻 sometimes Develop my own game.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: lunacalvojuanignacio@gmail.com.
+- 👨🏽‍💻 I’m currently working on My Portafolio and another personal Proyects / Actualmente trabajando en Portafolio y otros Proyectos Personales.
+- 🌱 I’m currently learning  Italian Language,Angular / actualmente aprendiendo Italiano, Angular.
+- 👨🏽‍💻 sometimes Develop my own game / a veces desarrollo mi propio videojuego.
+- 💬 Ask me about anything, I am happy to help / preguntame lo que quieras,  soy feliz de ayudar.
+- 📫 How to reach me / como contactarme: lunacalvojuanignacio@gmail.com.
 - Portafolio/PortFolio https://proyectojuan-e80d5.web.app/
 
-**Languages and Tools:**  
+**Languages and Tools / lenguajes y herramientas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/angular-512.png"></code>
@@ -32,7 +34,7 @@ Hi, I'm Juan Luna, a Backend developer Jr 🚀 from Argentina, currently, I'm tr
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></code>
 
-languages that I speak:
+languages that I speak / Idiomas que hablo:
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Argentina_flag_icon.svg/1200px-Argentina_flag_icon.svg.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/323/323310.png"></code>
