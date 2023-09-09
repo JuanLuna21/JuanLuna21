@@ -18,7 +18,6 @@ Hola! ,Soy Juan Luna, un Backend Developer Jr 🚀 de Argentina, actualmente est
 
 - 👨🏽‍💻 I’m currently working on My Portafolio and another personal Proyects / Actualmente trabajando en Portafolio y otros Proyectos Personales.
 - 🌱 I’m currently learning  Italian Language,Angular / actualmente aprendiendo Italiano, Angular.
-- 👨🏽‍💻 sometimes Develop my own game / a veces desarrollo mi propio videojuego.
 - 💬 Ask me about anything, I am happy to help / preguntame lo que quieras,  soy feliz de ayudar.
 - 📫 How to reach me / como contactarme: lunacalvojuanignacio@gmail.com.
 - Portafolio/PortFolio https://proyectojuan-e80d5.web.app/
